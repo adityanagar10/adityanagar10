@@ -1,5 +1,7 @@
 <h1>👋 Hi, I’m <strong>Aditya Nagar</strong>, I’m interested in Full Stack Development. </h1>
 <hr>
+
+<hr>
 My portfolio : https://adityanagar10.github.io/my-blog/ <br>
 
 <strong><h2>✨My socials✨: </h2></strong><br>
