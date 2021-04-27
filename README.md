@@ -1,9 +1,4 @@
-- 👋 Hi, I’m Aditya Nagar
-- 👀 I’m interested in Full Stack Development 
-- 💞️ I’m looking to collaborate on any Development project.
-- 🐦 HMU on Twitter
-
-<!---
-adityanagar10/adityanagar10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Aditya Nagar, I’m interested in Full Stack Development. 
+<hr>
+My portfolio : https://adityanagar10.github.io/my-blog/ 
+![alt text](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)![e426702edf874b181aced1e2fa5c6cde](https://user-images.githubusercontent.com/54503781/116208812-ea9f3980-a75e-11eb-83a5-401581220c38.gif)
