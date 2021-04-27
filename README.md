@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m Aditya Nagar, I’m interested in Full Stack Development. </h1>
+<h1>👋 Hi, I’m <strong>Aditya Nagar</strong>, I’m interested in Full Stack Development. </h1>
 <hr>
 My portfolio : https://adityanagar10.github.io/my-blog/ <br>
 
