@@ -7,4 +7,4 @@ Twitter: https://twitter.com/adityanagar_ <br>
 Linkedin: https://www.linkedin.com/in/aditya-nagar-b33876114/ <br>
 
 <h2>My skills:</h2>
-1.HTML, 2.CSS, 3.Javascript, 4.MongoDB, 5. ReactJS
+1.HTML, 2.CSS(BootStrap, TailWind) , 3.Javascript(jQuery) , 4.MongoDB(Mongoose), 5. ReactJS
