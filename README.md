@@ -22,4 +22,4 @@ Hi, This is Aditya Nagar. I am a Second Year student pursuing Computer Science E
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityanagar10&theme=monokai) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityanagar10&theme=monokai) 
 
-![](https://komarev.com/ghpvc/?username=Suvoo&color=blue)
+![](https://komarev.com/ghpvc/?username=adityanagar10&color=blue)
