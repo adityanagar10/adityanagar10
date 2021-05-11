@@ -15,7 +15,7 @@
 </p>
 
 <h2 align="left">About me </h2>
-Hi, This is Aditya Nagar. I am a Second Year student pursuing Computer Science Enggineering, with an interest in Web Development.
+Hi, This is Aditya Nagar. I am a Second Year student pursuing Computer Science Engineering, with an interest in Web Development.
 <h2 align="left">Some Stats </h2>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityanagar10&theme=monokai) 
