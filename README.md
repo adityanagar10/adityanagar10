@@ -15,11 +15,19 @@
 </p>
 
 <h2 align="left">About me </h2>
-Hi, This is Aditya Nagar. I am a Second Year student pursuing Computer Science Engineering, with an interest in Web Development.
-<h2 align="left">Some Stats </h2>
+Hi, This is Aditya Nagar. I am a student pursuing Computer Science Engineering, with an interest in Web Development.
+<h2 align="left">Some Stats: </h2>
+
+<p align="left">
+<a href="https://github.com/adityanagar10">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adityanagar10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adityanagar10&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityanagar10&theme=monokai) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityanagar10&theme=monokai) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityanagar10&theme=monokai) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityanagar10&theme=monokai)
 
 ![](https://komarev.com/ghpvc/?username=adityanagar10&color=blue)
