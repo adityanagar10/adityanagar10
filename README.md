@@ -16,8 +16,33 @@
 
 <h2 align="left">About me </h2>
 Hi, This is Aditya Nagar. I am a student pursuing Computer Science Engineering, with an interest in Web Development.
-<h2 align="left">Some Stats: </h2>
 
+<h2 align="left">Languages</h2>
+<div align="left">
+ <ul>
+<li>JavaScript(ES6)</li>
+<li>TypeScript </li>
+<li>HTML</li>
+<li>CSS/SASS</li>
+<li>Pythons</li>
+<li>SQL</li>
+<li>C/C++</li>
+</ul>
+</div>
+
+<h2> TOOLS I CAN USE </h2>
+<ul>
+<li>Firebase by Google</li>
+  <li> AuthO </li>
+<li> Bash </li>
+<li> Git & GitHub </li>
+<li> Chrome DevTools </li>
+<li> Postman </li>
+<li> MongoDB </li>
+</ul>
+  </div>
+
+<h2 align="left">Some Stats: </h2>
 <p align="left">
 <a href="https://github.com/adityanagar10">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adityanagar10&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
