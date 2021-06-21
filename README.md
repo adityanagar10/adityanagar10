@@ -15,7 +15,7 @@
 </p>
 
 <h2 align="left">About me </h2>
-Hi, This is Aditya Nagar. I am a student pursuing Computer Science Engineering, with an interest in Web Development.
+Hi, I am Aditya and I like React
 
 <h2 align="left">Languages</h2>
 <div align="left">
