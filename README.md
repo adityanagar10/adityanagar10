@@ -46,7 +46,7 @@ Hi, This is Aditya Nagar. I am a student pursuing Computer Science Engineering, 
 <p align="left">
 <a href="https://github.com/adityanagar10">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adityanagar10&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adityanagar10&layout=compact&langs_count=8&theme=monokai"/>
+  
 </a>
 </p>
 
