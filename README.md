@@ -15,7 +15,7 @@
 </p>
 
 <h2 align="left">About me </h2>
-Hi, I am Aditya and I like React
+Hi, I am Aditya and this is my <a href = "https://welcome-six.vercel.app/">portfolio</a>
 
 <h2 align="left">Languages</h2>
 <div align="left">
