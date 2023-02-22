@@ -1,4 +1,4 @@
-!Header](./Hi! This is aditya.png)
+![Header](./Hi! This is aditya.png)
 
 <h1 align="center">Hi ??, I'm Aditya Suresh Nagar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
