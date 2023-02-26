@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://adityanagarblogs.vercel.app/](https://adityanagarblogs.vercel.app/)
 
-- 💬 Ask me about **Javascript, Typescript**
+- 💬 Ask me about **Javascript, Typescript, Frameworks**
 
 - 📫 How to reach me **dev.adityanagar@gmail.com**
 
