@@ -14,9 +14,10 @@
 - 📝 I regularly write articles on [https://adityanagar.com/](https://adityanagar.com/)
 
 - 📫 How to reach me **dev.adityanagar@gmail.com**
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018d39b3-19f4-41c5-84ad-f09610bae3f8/cf8a2309-be20-4478-8889-35781d6b9bc4.png" width="500" /></a>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018d39b3-19f4-41c5-84ad-f09610bae3f8/7dcb88d8-9c25-4fba-a8ed-6675c20b1f88.png" width="500" /></a>
+### I have been coding for
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018d39b3-19f4-41c5-84ad-f09610bae3f8/cf8a2309-be20-4478-8889-35781d6b9bc4.png" width="300" /></a>
+### I have been coding in
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018d39b3-19f4-41c5-84ad-f09610bae3f8/7dcb88d8-9c25-4fba-a8ed-6675c20b1f88.png" width="300" /></a>
 
 
 <h3 align="left">Connect with me:</h3>
