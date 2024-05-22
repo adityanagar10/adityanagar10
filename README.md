@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dev.adityanagar@gmail.com**
 
-<figure><embed src="https://wakatime.com/share/@018d39b3-19f4-41c5-84ad-f09610bae3f8/933df52b-9d24-475a-a4b1-a29926fcf8c7.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018d39b3-19f4-41c5-84ad-f09610bae3f8/f6f0c358-4422-46dc-bcb5-4983f8719c99.png" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
