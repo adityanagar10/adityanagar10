@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working at [Oolio](https://oolio.com)
 
-- 📝 I regularly write articles on [https://adityanagarblogs.vercel.app/](https://adityanagarblogs.vercel.app/)
-
-- 💬 Ask me about **Javascript, Typescript, Frameworks**
+- 📝 I regularly write articles on [https://adityanagar.com/](https://adityanagar.com/)
 
 - 📫 How to reach me **dev.adityanagar@gmail.com**
+
+<figure><embed src="https://wakatime.com/share/@018d39b3-19f4-41c5-84ad-f09610bae3f8/933df52b-9d24-475a-a4b1-a29926fcf8c7.svg"></embed></figure>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
